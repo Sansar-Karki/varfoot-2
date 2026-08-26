@@ -1,0 +1,23 @@
+{
+  "name": "varfooty-video",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render VarFooty out/varfooty.mp4",
+    "still": "remotion still"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.475",
+    "@remotion/google-fonts": "^4.0.475",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.475",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}

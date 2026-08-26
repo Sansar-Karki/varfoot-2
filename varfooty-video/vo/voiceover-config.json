@@ -1,0 +1,22 @@
+{
+  "voiceId": "onwK4e9ZLuTAKqWW03F9",
+  "model": "eleven_multilingual_v2",
+  "outputDir": "vo",
+  "outputFile": "voiceover.mp3",
+  "totalDurationSeconds": 84,
+  "sections": [
+    { "id": "hook1", "text": "Every season, talented players get cut.", "startTime": 1.2, "emotion": "dramatic" },
+    { "id": "hook2", "text": "Not from a lack of talent. From a lack of a plan.", "startTime": 4.6, "emotion": "dramatic" },
+    { "id": "reveal1", "text": "Meet VarFooty. It scores your varsity readiness, one number across every skill that matters.", "startTime": 8.6, "emotion": "confident" },
+    { "id": "reveal2", "text": "Technical, physical, speed, and nutrition.", "startTime": 15.3, "emotion": "confident" },
+    { "id": "train1", "text": "Train with drills that are actually coached. A setup, an action, a measurement, and a cue.", "startTime": 20.3, "emotion": "confident" },
+    { "id": "train2", "text": "Log your result, and your score moves.", "startTime": 27.8, "emotion": "confident" },
+    { "id": "plan1", "text": "It builds your roadmap automatically. Week by week, ordered by your biggest gaps, straight to tryout day.", "startTime": 32.0, "emotion": "confident" },
+    { "id": "fuel1", "text": "Fuel like an athlete, with real U S D A nutrition tracked to the gram.", "startTime": 41.8, "emotion": "warm" },
+    { "id": "fuel2", "text": "Because varsity is built in the kitchen too.", "startTime": 48.3, "emotion": "warm" },
+    { "id": "coach1", "text": "And your A I coach knows everything. Your readiness, your gaps, your plan, your nutrition.", "startTime": 53.4, "emotion": "confident" },
+    { "id": "coach2", "text": "So the advice is always yours. Never generic.", "startTime": 61.3, "emotion": "dramatic" },
+    { "id": "recap", "text": "Readiness. Training. Nutrition. Coaching. Everything a player needs, in one app.", "startTime": 67.0, "emotion": "dramatic" },
+    { "id": "outro", "text": "VarFooty. Train with purpose. Make varsity.", "startTime": 77.0, "emotion": "dramatic" }
+  ]
+}
